@@ -20,6 +20,12 @@
 **需要注意的是当将文件打包为Jar包时需要将图片资源文件复制到jar包同级目录内**
 
 ---
+---
+
+**ENGLISH**
+
+---
+---
 
 Use Java to make a simple game
 
@@ -57,7 +63,7 @@ The internal logic for each class is commented in the code and the logic is rela
 
 ---
 
-** Note that when packaging a file as a Jar package, copy the image resource file to the same directory as the Jar package **
+**Note that when packaging a file as a Jar package, copy the image resource file to the same directory as the Jar package**
 
 
 
